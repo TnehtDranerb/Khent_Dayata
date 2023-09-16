@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khent Bernard Dayata</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 
-<img align="right" alt="coding"width="400" src="![gif](https://github.com/TnehtDranerb/Khent_Dayata/assets/142654243/18fc3003-4565-44ee-baf9-7844b6dd0dcf)
-">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tnehtdranerb&label=Profile%20views&color=0e75b6&style=flat" alt="tnehtdranerb" /> </p>
 
